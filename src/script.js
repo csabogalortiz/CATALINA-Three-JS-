@@ -35,7 +35,7 @@ fontLoader.load(
     '/fonts/helvetiker_regular.typeface.json',
     (font) => {
         const textGeometry = new TextGeometry(
-            'Eduardo',
+            'Catalina',
             {
                 font: font,
                 size: 0.5,
