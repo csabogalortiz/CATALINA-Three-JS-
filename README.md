@@ -19,4 +19,36 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
+```
+
+### 2️⃣ Install Dependencies  
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3️⃣ Run the Development Server  
+```bash
+npm run dev
+# or
+yarn dev
+```
+Then open `http://localhost:3000/` in your browser.
+
+## 🚀 Deployment  
+This project is deployed on **Vercel**.  
+To deploy updates, push your changes to the `main` branch, and Vercel will automatically deploy them.
+
+## 🖼️ Preview  
+![Catalina 3D Experience](./screenshot.png)  
+*A vibrant, interactive Three.js experience featuring floating torus objects and dynamic text.*
+
+## 👤 Author  
+- **Catalina** – [Your Website or LinkedIn]  
+- **GitHub**: [Your GitHub Profile](https://github.com/your-username)  
+
+## 📄 License  
+This project is licensed under **[License Name]**.
+
 
