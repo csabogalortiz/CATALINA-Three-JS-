@@ -45,10 +45,8 @@ To deploy updates, push your changes to the `main` branch, and Vercel will autom
 *A vibrant, interactive Three.js experience featuring floating torus objects and dynamic text.*
 
 ## 👤 Author  
-- **Catalina** – [Your Website or LinkedIn]  
+- **Catalina** –[ [(https://t.ly/2muu)]  ]
 - **GitHub**: [Your GitHub Profile](https://github.com/your-username)  
 
-## 📄 License  
-This project is licensed under **[License Name]**.
 
 
