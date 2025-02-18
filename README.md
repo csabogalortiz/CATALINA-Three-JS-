@@ -1,7 +1,7 @@
 # 🌌 Catalina - Interactive 3D Experience
 
 🚀 **Live Demo:** [three-eight-puce.vercel.app](https://three-eight-puce.vercel.app/)
-https://catalinauxdev.netlify.app/
+
 
 ## 📖 About  
 **Catalina** is an **immersive, interactive 3D experience** built with **Three.js**.  
